@@ -60,7 +60,3 @@ The dataset used is the "Spam SMS Collection" from Kaggle, containing SMS messag
 
 Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
